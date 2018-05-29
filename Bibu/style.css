@@ -1,0 +1,89 @@
+/* Header */
+
+.jumb1 {
+
+   background-image: url(Pictures/Hamburger-French-fries-ConvertImage.png);
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+
+}
+
+.dancingFont1 {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  font-size: 600%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.courgetteFont1 {
+  font-family: 'Courgette', cursive;
+  color: black;
+  font-size: 300%;
+  padding-top: 10%;
+  text-align: center;
+}
+/* .jumbotron {
+  background-image: url("Pictures/Hamburger-French-fries-ConvertImage.png");
+  background-size: cover;
+  height: 100% 100%;
+} */
+
+/* Pure Style */
+
+
+.courgetteFont {
+  font-family: 'Courgette', cursive;
+}
+
+.dancingFont {
+  font-family: 'Dancing Script', cursive;
+}
+
+.ssp {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* Main */
+
+.card {
+  background-color: #9ACD32 !important;
+  text-align: center;
+}
+
+
+.img1 {
+  width:65%;
+  height:80%;
+  border-radius: 30px;
+}
+
+.img2 {
+  width:65%;
+  height:80%;
+  border-radius: 30px;
+}
+
+.border1 {
+  border: 3px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.body {
+  padding: 0;
+}
+
+p {
+  font-size: 140%;
+}
+
+nav {
+  font-size: 140%;
+}
+
+.carte {
+  text-align: left;
+}
