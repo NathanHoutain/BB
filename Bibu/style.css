@@ -6,7 +6,11 @@
    background-position: center;
    background-size: cover;
    width: 100%;
+}
 
+.jumbotron {
+  margin-bottom: 0;
+  border-radius: 0;
 }
 
 .dancingFont1 {
@@ -24,17 +28,19 @@
   padding-top: 10%;
   text-align: center;
 }
-/* .jumbotron {
-  background-image: url("Pictures/Hamburger-French-fries-ConvertImage.png");
-  background-size: cover;
-  height: 100% 100%;
-} */
+
 
 /* Pure Style */
 
 
 .courgetteFont {
   font-family: 'Courgette', cursive;
+}
+
+.green {
+  color: #9ACD32;
+  font-family: 'Courgette', cursive;
+  font-size: 140%;
 }
 
 .dancingFont {
@@ -87,3 +93,44 @@ nav {
 .carte {
   text-align: left;
 }
+
+
+/* .h3 {
+  text-align: center;
+  font-size: 240%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+} */
+
+.promnews {
+  border-radius: 0;
+}
+
+.h5 {
+  font-size: 140%;
+  text-align: center;
+}
+
+.p1 {
+  font-size: 100%;
+}
+
+main {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background-image: url(Pictures/texture-1496898_960_720.jpg);
+  background-size: cover;
+}
+
+.carcard {
+  width: 70%;
+  float: left;
+  margin-left: 15%;
+}
+
+/* .op {
+    opacity: 0.5 !important;
+    filter: alpha(opacity=50);
+} */
+
+.list-group{}
