@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <meta description="Gallerie photos page 1">
+    <title>Gallerie Photos 1</title>
+    <link rel="stylesheet" href=bootstrap.min.css>
+    <link rel="stylesheet" type="text/css" href=style.css>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="jumbotron jumb1">
+        <h1 class="dancingFont1"> Big Burger's </h1>
+        <p class="courgetteFont1">The <b> biggest </b> burger of Brussels</p>
+      </div>
+    </header>
+    <!-- NavBar Collapsing Doesn't Work !-->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapse_target">
+        <ul class="navbar-nav courgetteFont">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Accueil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="carte.html">Carte</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="photos1.html">Photos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="restaurants.html">Restaurants</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="pagi">
+      <div class="container img">
+        <div class="row">
+          <div class="col-sm">
+            <img src="Pictures/817988.jpg" class="img-fluid" alt="Responsive image">
+          </div>
+          <div class="col-sm">
+            <img src="Pictures/burger_fastfood_food_food_photography_hamburger_macro-971538.jpg!d.jpeg" class="img-fluid" alt="Responsive image">
+          </div>
+          <div class="col-sm">
+            <img src="Pictures/photo-1412665.jpg!d.jpeg" class="img-fluid" alt="Responsive image">
+          </div>
+        </div>
+      </div>
+      <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center pn">
+          <li class="page-item">
+            <a class="page-link" href="photos4.html" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only">Previous</span>
+            </a>
+          </li>
+          <li class="page-item disabled"><a class="page-link" href="photos1.html">1</a></li>
+          <li class="page-item"><a class="page-link" href="photos2.html">2</a></li>
+          <li class="page-item"><a class="page-link" href="photos3.html">3</a></li>
+          <li class="page-item"><a class="page-link" href="photos4.html">4</a></li>
+          <li class="page-item">
+            <a class="page-link" href="photos2.html" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+            <span class="sr-only">Next</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>

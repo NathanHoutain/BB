@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <meta description="Carte du restaurant">
+    <title>Carte du restaurant</title>
+    <link rel="stylesheet" href=bootstrap.min.css>
+    <link rel="stylesheet" type="text/css" href=style.css>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+  </head>
+  <!-- Header ----------------------------------------------------------------------------------------->
+  <body>
+    <header>
+      <div class="jumbotron jumb1">
+        <h1 class="dancingFont1"> Big Burger's </h1>
+        <p class="courgetteFont1">The <b> biggest </b> burger of Brussels</p>
+      </div>
+    </header>
+    <!-- NavBar----------------------------------------------------------------------------------------->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapse_target">
+        <ul class="navbar-nav courgetteFont">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Accueil</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="carte.html">Carte</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="photos1.html">Photos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="restaurants.html">Restaurants</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- MainMenu ----------------------------------------------------------------------------------------->
+    <main>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <div class="card carte">
+              <div class="card-header courgetteFont h5">Burgers</div>
+              <ul class="list-group ssp op">
+                <li class="list-group-item"><b>Simple Big</b>
+                  <span class="badge badge-secondary badge-pill">3,50€</span>
+                  </br> (salade, oignons, tomates, cornichons, tranche de cheddar, viande pure boeuf, sauce Big Burger's)
+                </li>
+                <li class="list-group-item"><b>Double Big</b>
+                  <span class="badge badge-secondary badge-pill">4,50€</span>
+                  </br> (salade, oignons, tomates, cornichons, double tranche de cheddar, double viande pure boeuf, sauce Big Burger's)
+                </li>
+                <li class="list-group-item"><b>Big Bacon</b>
+                  <span class="badge badge-secondary badge-pill">4,50€</span>
+                  </br> (salade, oignons, tomates, cornichons, tranche de cheddar, viande pure boeuf, bacon, tranche de jambon, sauce Big Burger's)
+                </li>
+                <li class="list-group-item"><b>Le Minimaliste</b>
+                  <span class="badge badge-secondary badge-pill">3,50€</span>
+                  </br> (crudités, vegan "burger" fris)
+                </li>
+                <li class="list-group-item"><b> Chicken BBQ </b>
+                  <span class="badge badge-secondary badge-pill">3,80€</span>
+                  </br> (salade, oignons, tomates, tranche de cheddar, sauce barbecue)
+                </li>
+                <li class="list-group-item"><b> Fish Burger </b>
+                  <span class="badge badge-secondary badge-pill">3,80€</span>
+                  </br> (salade, oignons, tomates, tranche de cheddar, poisson, sauce tartare)
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm">
+            <div class="card carte">
+              <div class="card-header courgetteFont h5">Frites</div>
+              <ul class="list-group ssp">
+                <li class="list-group-item d-flex justify-content-between align-items-center"><b>Petite</b>
+                  <span class="badge badge-secondary badge-pill">1,20€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center"><b>Moyenne</b>
+                  <span class="badge badge-secondary badge-pill">1,70€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center"><b>Grande</b>
+                  <span class="badge badge-secondary badge-pill">2,10€</span>
+                </li>
+              </ul>
+            </div>
+            <div class="card carte">
+              <div class="card-header courgetteFont h5">Boissons</div>
+              <ul class="list-group ssp">
+                <li class="list-group-item d-flex justify-content-between align-items-center"><b>Soft 25cl</b>
+                  <span class="badge badge-secondary badge-pill">1,50€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  <b>Maxi Soft 50cl</b>
+                  <span class="badge badge-secondary badge-pill">2,50€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  Coca, Sprite, Fanta, Lipton Ice Tea, Jus Looza (orange, pomme-cerise, ananas)
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  <b> Jupiler 25cl </b>
+                  <span class="badge badge-secondary badge-pill">2,30€</span>
+                </li>
+              </ul>
+            </div>
+            <div class="card carte">
+              <div class="card-header courgetteFont h5">
+                Sauces
+              </div>
+              <ul class="list-group ssp">
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  <b>Petite</b>
+                  <span class="badge badge-secondary badge-pill">0,70€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  <b>Grande</b>
+                  <span class="badge badge-secondary badge-pill">1,30€</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                  Big Burger's, Ketchup, Mayonnaise, Andalouse, Brasil, BBQ, Tartare, Samouraï, Kebab, Cocktail, Hawaï
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
