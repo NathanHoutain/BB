@@ -25,7 +25,7 @@
   font-family: 'Courgette', cursive;
   color: black;
   font-size: 300%;
-  padding-top: 10%;
+  padding-top: 5%;
   text-align: center;
 }
 
@@ -94,20 +94,15 @@ nav {
   text-align: left;
 }
 
-
-/* .h3 {
-  text-align: center;
-  font-size: 240%;
-  margin-top: 2%;
-  margin-bottom: 2%;
-} */
-
 .promnews {
-  border-radius: 0;
+  border-radius: 25px;
+  margin: 2%;
 }
 
+/* Carte */
+
 .h5 {
-  font-size: 140%;
+  font-size: 200%;
   text-align: center;
 }
 
@@ -128,9 +123,61 @@ main {
   margin-left: 15%;
 }
 
-/* .op {
-    opacity: 0.5 !important;
-    filter: alpha(opacity=50);
-} */
+.img {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
 
-.list-group{}
+ .pagi{
+   background-image: url(Pictures/texture-1496898_960_720.jpg);
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+ }
+
+ .pn {
+   padding-bottom: 5%;
+   margin-bottom: 0;
+ }
+
+.r1 {
+  margin-top: 5%;
+}
+
+.r3 {
+  vertical-align: middle;
+}
+
+.colonne-centree
+{
+float: none;
+margin:0 auto;
+}
+
+.bc1 {
+  background-color: #9ACD32;
+  border-radius: 25px;
+}
+
+.r4 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.h5 {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.form1 {
+  margin-bottom: 0;
+}
+
+.cm1 {
+  margin:
+}
+
+.rad {
+  border-radius: 10px;
+}

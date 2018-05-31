@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport">
-    <meta description="Page d'acceuil">
-    <title>Acceuil</title>
+    <meta description="Gallerie photos page 2">
+    <title>Gallerie Photos 2</title>
     <link rel="stylesheet" href=bootstrap.min.css>
     <link rel="stylesheet" type="text/css" href=style.css>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -28,13 +28,13 @@
       </button>
       <div class="collapse navbar-collapse" id="collapse_target">
         <ul class="navbar-nav courgetteFont">
-          <li class="nav-item active">
+          <li class="nav-item">
             <a class="nav-link" href="index.html">Accueil</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="carte.html">Carte</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link" href="photos1.html">Photos</a>
           </li>
           <li class="nav-item">
@@ -46,37 +46,40 @@
         </ul>
       </div>
     </nav>
-    <main>
-      <div class="container h-100 cm1">
-        <div class="row align-items-center h-100">
-          <div class="col-lg-6 col-md-12 col-sm-12 mx-auto">
-            <div class="card promnews h-100 justify-content-center">
-              <div class="card-body">
-                <h1 class="courgetteFont"> Promos du moment </h1>
-                <p class="ssp"> Le Menu Double Big pour les grandes faims à <b>-25 %</b> ! </p>
-                <img class="img1" src="Pictures/Download-Girls-Images-4k-Background-HD-Wallpaper-brunette_hamburger_white_blue_eyes_food_77165_5616x3744-1920x1280.jpg"
-                  alt="Menu Double Big à 5€ !">
-                <p class="ssp"> </br> 1 Moyenne Frite + 1 Soft 25 cl + 1 Double Big pour <b>5,80 €</b> seulement !</p>
-              </div>
-            </div>
+    <div class="pagi">
+      <div class="container img">
+        <div class="row">
+          <div class="col-sm">
+            <img src="Pictures/fanta-sprite-coke.jpg" class="img-fluid" alt="Responsive image">
           </div>
-          <div class="col-lg-6 col-md-12 col-sm-12 ">
-            <div class="card promnews">
-              <div class="card-body">
-                <h1 class="courgetteFont"> L'actualité de Big Burger's </h1>
-                <p> Big Burger's débarque bientôt à Ixelles ! </p>
-                <img class="img2" src="Pictures/10503130_P01.jpg" alt="Rue d'Ixelles">
-                <p class="ssp"> </br> 6 mois après son installation à la gare de Bruxelles-Central,
-                  <b>Big Burger's ®</b> s'installe au 51 Rue Campenhout à Ixelles ! Profitez dés maintenant des <b>offres d'ouverture</b> jusqu'au 15 juin !
-                </p>
-              </div>
-            </div>
+          <div class="col-sm">
+            <img src="Pictures/10025758.jpg" class="img-fluid" alt="Responsive image">
+          </div>
+          <div class="col-sm">
+            <img src="Pictures/G15022_KFC_47-sauces-all-Enviro_0688_RGB-copy.jpg" class="img-fluid" alt="Responsive image">
           </div>
         </div>
       </div>
-    </main>
-    <footer>
-      <!-- Copyrights -->
-    </footer>
+      <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center pn">
+          <li class="page-item">
+            <a class="page-link" href="photos1.html" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only">Previous</span>
+            </a>
+          </li>
+          <li class="page-item"><a class="page-link" href="photos1.html">1</a></li>
+          <li class="page-item disabled"><a class="page-link" href="photos2.html">2</a></li>
+          <li class="page-item"><a class="page-link" href="photos3.html">3</a></li>
+          <li class="page-item"><a class="page-link" href="photos4.html">4</a></li>
+          <li class="page-item">
+            <a class="page-link" href="photos3.html" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+            <span class="sr-only">Next</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
   </body>
 </html>
