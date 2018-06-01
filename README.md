@@ -36,7 +36,7 @@ Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central).
 [alt text](https://raw.githubusercontent.com/NathanHoutain/Exercice-Restaurant-BS4/master/path/to/img.png)
 [alt text](https://raw.githubusercontent.com/NathanHoutain/Exercice-Restaurant-BS4/master/path/to/BigBurger's/Pictures/Apercu/acceuil-grand.png)
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
-[a relative link](/BigBurger's/Pictures/Apercu/acceuil-grand.png)
+![a relative link](/BigBurger's/Pictures/Apercu/acceuil-grand.png)
 [a link](https://github.com/NathanHoutain/Exercice-Restaurant-BS4/master/BigBurger's/Pictures/Apercu/acceuil-grand.png)
 
 ![acceuil-grand] (BigBurger's/Pictures/Apercu/acceuil-grand.png)
