@@ -20,7 +20,7 @@ Durée : 4 jours.
 
 # Objectif et situation ;
 Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) qui a pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
-mon utilisation du framework Bootstrap) acquises lors de celle-ci ainsi que ma capacité à gérer et résoudre quelconque problème.
+mon utilisation du framework Bootstrap) acquises lors de celle-ci ainsi que ma capacité à gérer et résoudre les quelconques problèmes rencontrés.
 
 ### Etat : 
 Terminé et rendu.
