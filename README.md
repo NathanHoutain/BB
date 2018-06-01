@@ -32,6 +32,11 @@ Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central).
 # Aperçu grand/moyen/petit écran ;
 > 1 juin 2018
 
+### Barre de navigation et tête de page :
+![header-nav-grand](/BigBurger's/Pictures/Apercu/header-nav-grand.png)
+![header-nav-moyen](/BigBurger's/Pictures/Apercu/header-nav-moyen.png)
+![header-nav-petit](/BigBurger's/Pictures/Apercu/header-nav-petit.png)
+
 ### Accueil :
 
 ![acceuil-grand](/BigBurger's/Pictures/Apercu/acceuil-grand.png)
