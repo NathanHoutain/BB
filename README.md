@@ -16,6 +16,7 @@ Début : lundi 28 mai 2018, 9h30.
 Deadline : jeudi 31 mai 2018, 16h30.  
 Durée : 4 jours. 
 
+> Pour plus d'infos sur les consignes : https://github.com/becodeorg/Johnson2/tree/master/projets/Restaurant_Bootstrap
 
 # Objectif et situation ;
 Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) qui a pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
