@@ -5,6 +5,7 @@
 
 * Mettre des photos libres de droits.
 * Afficher le glyphicon dans Contact. (Accessibility = ignored)
+* Faire un footer !
 
 ### **Améliorations** :
 
