@@ -19,7 +19,7 @@ Durée : 4 jours.
 > Pour plus d'infos sur les consignes : https://github.com/becodeorg/Johnson2/tree/master/projets/Restaurant_Bootstrap
 
 # Objectif et situation ;
-Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) qui a pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
+Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) ayant pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
 mon utilisation du framework Bootstrap) acquises lors de celle-ci ainsi que ma capacité à gérer et résoudre les quelconques problèmes rencontrés.
 
 ### Etat : 
