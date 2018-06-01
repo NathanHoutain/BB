@@ -2,7 +2,7 @@
 
 Apprenant : Nathan Houtain.
 
-#Consignes ;
+# Consignes ;
 Réaliser le site vitrine d'un restaurant (fictif), responsive, avec miminum 5 pages accessibles par une barre de navigation ; Accueil, Carte, Photos, Restaurants, Contact. Exercice à faire seul, autorisation d'aller plus loin bien sûr !
 
 * Acceuil : un jumbotron et 2 panels pour des news.
@@ -11,47 +11,47 @@ Réaliser le site vitrine d'un restaurant (fictif), responsive, avec miminum 5 p
 * Restaurants : adresse, plan d'accès et horaire des restaurants (2 min).
 * Contact : formulaire avec nom, prénom, e-mail, liste déroulante (objet du message), textarea, un bouton d'envoi avec glyphicon et un label.
 
-###Time :
+### Time :
 Début : lundi 28 mai 2018, 9h30.   
 Deadline : jeudi 31 mai 2018, 16h30.  
 Durée : 4 jours. 
 
 
-#Objectif et situation ;
+# Objectif et situation ;
 Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) qui a pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
 mon utilisation du framework Bootstrap) acquises lors de celle-ci ainsi que ma capacité à gérer et résoudre quelconque problème.
 
-###Etat : 
+### Etat : 
 Terminé et rendu.
 
-###Lieux :
+### Lieux :
 Be-Central, bureaux de BeCode.org.  
 Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central). 
 
 
-#Aperçu grand/moyen/petit écran ;   
+# Aperçu grand/moyen/petit écran ;   
 
 ### Accueil :
 ![acceuil-grand] (/Pictures/Apercu/acceuil-grand.png)
 ![acceuil-moyen] (/Pictures/Apercu/acceuil-moyen.png)
 ![acceuil-petit] (/Pictures/Apercu/acceuil-petit.png)
 
-###Carte :
+### Carte :
 ![carte-grand] (/Pictures/Apercu/carte-grand.png)
 ![carte-moyen] (/Pictures/Apercu/carte-moyen.png)
 ![carte-petit] (/Pictures/Apercu/carte-petit.png)
 
-###Photos :
+### Photos :
 ![photos-grand] (/Pictures/Apercu/photos-grand.png)
 ![photos-moyen] (/Pictures/Apercu/photos-moyen.png)
 ![photos-petit] (/Pictures/Apercu/photos-petit.png)
 
-###Restaurants :
+### Restaurants :
 ![restaurants-grand] (/Pictures/Apercu/restaurants-grand.png)
 ![restaurants-moyen] (/Pictures/Apercu/restaurants-moyen.png)
 ![restaurants-petit] (/Pictures/Apercu/restaurants-petit.png)
 
-###Contact :
+### Contact :
 ![contact-grand] (/Pictures/Apercu/contact-grand.png)
 ![contact-moyen] (/Pictures/Apercu/contact-moyen.png)
 ![contact-petit] (/Pictures/Apercu/contact-petit.png)
