@@ -5,7 +5,7 @@ Apprenant : Nathan Houtain.
 # Consignes ;
 Réaliser le site vitrine d'un restaurant (fictif), responsive, avec miminum 5 pages accessibles par une barre de navigation ; Accueil, Carte, Photos, Restaurants, Contact. Exercice à faire seul, autorisation d'aller plus loin bien sûr !
 
-* Acceuil : un jumbotron et 2 panels pour des news.
+* Accueil : un jumbotron et 2 panels pour des news.
 * Carte : menu présenté sous forme de liste groupée avec badges.
 * Photos : galerie photos (min 10) avec pagination (3/page).
 * Restaurants : adresse, plan d'accès et horaire des restaurants (2 min).
@@ -14,7 +14,7 @@ Réaliser le site vitrine d'un restaurant (fictif), responsive, avec miminum 5 p
 ### Time :
 Début : lundi 28 mai 2018, 9h30.   
 Deadline : jeudi 31 mai 2018, 16h30.  
-Durée : 4 jours. 
+Durée : 4 jours.
 
 > Pour plus d'infos sur les consignes : https://github.com/becodeorg/Johnson2/tree/master/projets/Restaurant_Bootstrap
 
@@ -22,12 +22,12 @@ Durée : 4 jours.
 Exercice de fin de prairie (1er mois "test" de la formation BeCode.org) ayant pour but de tester mes compétences en HTML, JavaScript, CSS (et principalement
 mon utilisation du framework Bootstrap) acquises lors de celle-ci ainsi que ma capacité à gérer et résoudre les quelconques problèmes rencontrés.
 
-### Etat : 
+### Etat :
 Terminé et rendu.
 
 ### Lieux :
 Be-Central, bureaux de BeCode.org.  
-Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central). 
+Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central).
 
 
 # Aperçu grand/moyen/petit écran ;
@@ -40,9 +40,9 @@ Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central).
 
 ### Accueil :
 
-![acceuil-grand](/BigBurger's/Pictures/Apercu/acceuil-grand.png)
-![acceuil-moyen](/BigBurger's/Pictures/Apercu/acceuil-moyen.png)
-![acceuil-petit](/BigBurger's/Pictures/Apercu/acceuil-petit.png)
+![accueil-grand](/BigBurger's/Pictures/Apercu/accueil-grand.png)
+![accueil-moyen](/BigBurger's/Pictures/Apercu/accueil-moyen.png)
+![accueil-petit](/BigBurger's/Pictures/Apercu/accueil-petit.png)
 
 ### Carte :
 ![carte-grand](/BigBurger's/Pictures/Apercu/carte-grand.png)
@@ -64,4 +64,4 @@ Cantersteen 12, 1000 Bruxelles (Gare de Bruxelles-Central).
 ![contact-moyen](/BigBurger's/Pictures/Apercu/contact-moyen.png)
 ![contact-petit](/BigBurger's/Pictures/Apercu/contact-petit.png)
 
-> Pour plus d'informations sur l'avancée du projet et sa réalisation, voir : BigBurger's/notes.dm 
+> Pour plus d'informations sur l'avancée du projet et sa réalisation, voir : BigBurger's/notes.dm
