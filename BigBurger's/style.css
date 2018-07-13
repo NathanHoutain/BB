@@ -1,188 +1,142 @@
 /* Header */
-
 .jumb1 {
-
-   background-image: url(Pictures/Hamburger-French-fries-ConvertImage.png);
-   background-position: center;
-   background-size: cover;
-   width: 100%;
-}
+  background-image: url(Pictures/Hamburger-French-fries-ConvertImage.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%; }
 
 .jumbotron {
   margin-bottom: 0;
-  border-radius: 0;
-}
+  border-radius: 0; }
 
 .dancingFont1 {
   font-family: 'Dancing Script', cursive;
   color: black;
   font-size: 600%;
   padding-top: 5%;
-  text-align: center;
-}
+  text-align: center; }
 
 .courgetteFont1 {
   font-family: 'Courgette', cursive;
   color: black;
   font-size: 300%;
   padding-top: 5%;
-  text-align: center;
-}
-
+  text-align: center; }
 
 /* Pure Style */
-
-
 .courgetteFont {
-  font-family: 'Courgette', cursive;
-}
+  font-family: 'Courgette', cursive; }
 
 .green {
   color: #9ACD32;
   font-family: 'Courgette', cursive;
-  font-size: 140%;
-}
+  font-size: 140%; }
 
 .dancingFont {
-  font-family: 'Dancing Script', cursive;
-}
+  font-family: 'Dancing Script', cursive; }
 
 .ssp {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
+  font-family: 'Source Sans Pro', sans-serif; }
 
 /* Main */
-
 .card {
   background-color: #9ACD32 !important;
-  text-align: center;
-}
-
+  text-align: center; }
 
 .img1 {
-  width:65%;
-  height:80%;
-  border-radius: 30px;
-}
+  width: 65%;
+  height: auto;
+  border-radius: 30px; }
 
 .img2 {
-  width:65%;
-  height:80%;
-  border-radius: 30px;
-}
+  width: 65%;
+  height: auto;
+  border-radius: 30px; }
 
 .border1 {
   border: 3px;
   border-color: black;
-  border-radius: 5px;
-}
+  border-radius: 5px; }
 
 .body {
-  padding: 0;
-}
+  padding: 0; }
 
 p {
-  font-size: 140%;
-}
+  font-size: 140%; }
 
 nav {
-  font-size: 140%;
-}
+  font-size: 140%; }
 
 .carte {
-  text-align: left;
-}
+  text-align: left; }
 
 .promnews {
   border-radius: 25px;
-  margin: 2%;
-}
+  margin: 2%; }
 
 /* Carte */
-
 .h5 {
   font-size: 200%;
-  text-align: center;
-}
+  text-align: center; }
 
 .p1 {
-  font-size: 100%;
-}
+  font-size: 100%; }
 
 main {
   padding-top: 2%;
   padding-bottom: 2%;
   background-image: url(Pictures/texture-1496898_960_720.jpg);
-  background-size: cover;
-}
+  background-size: cover;}
 
 .carcard {
   width: 70%;
   float: left;
-  margin-left: 15%;
-}
+  margin-left: 15%; }
 
 .img {
   padding-top: 5%;
+  padding-bottom: 5%; }
+
+.pagi {
+  background-image: url(Pictures/texture-1496898_960_720.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%; }
+
+.pn {
   padding-bottom: 5%;
-}
-
- .pagi{
-   background-image: url(Pictures/texture-1496898_960_720.jpg);
-   background-position: center;
-   background-size: cover;
-   width: 100%;
- }
-
- .pn {
-   padding-bottom: 5%;
-   margin-bottom: 0;
- }
+  margin-bottom: 0; }
 
 .r1 {
-  margin-top: 5%;
-}
+  margin-top: 5%; }
 
 .r3 {
-  vertical-align: middle;
-}
+  vertical-align: middle; }
 
-.colonne-centree
-{
-float: none;
-margin:0 auto;
-}
+.colonne-centree {
+  float: none;
+  margin: 0 auto; }
 
 .bc1 {
   background-color: #9ACD32;
-  border-radius: 25px;
-}
+  border-radius: 25px; }
 
 .r4 {
   width: 100%;
   margin-left: auto;
-  margin-right: auto;
-}
+  margin-right: auto; }
 
 .h5 {
   text-align: center;
-  padding-top: 5%;
-}
+  padding-top: 5%; }
 
 .form1 {
-  margin-bottom: 0;
-}
-
-.cm1 {
-  margin:
-}
+  margin-bottom: 0; }
 
 .rad {
-  border-radius: 10px;
-}
+  border-radius: 10px; }
 
 .p2 {
-  font-size: 120%;
-}
+  font-size: 120%; }
 
+/*# sourceMappingURL=style.css.map */
